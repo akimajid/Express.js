@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "pokemon411415",
+      "database": "dvdrental",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+  }
+  
